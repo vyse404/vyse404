@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif" />
 </div>
 <!--
 **vyse404/vyse404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
