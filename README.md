@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  <img src="![image](https://github.com/user-attachments/assets/eb963a36-6650-421d-8ebd-33e8fb985a1e)
+" width="100"/>
+</div>
 <!--
 **vyse404/vyse404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
